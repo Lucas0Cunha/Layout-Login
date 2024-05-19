@@ -1,0 +1,70 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+html{
+    display: flex;
+    background-color: rgb(15, 112, 190);
+    
+}
+
+.box {
+    
+    border: 1px solid rgba(20, 20, 20, 0.781);
+    background-color: white;
+    margin-left: 760px;
+    margin-top: 270px;
+    height: 430px;
+    width: 400px;
+    -webkit-box-shadow: 13px 8px 23px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 13px 8px 23px -1px rgba(0,0,0,0.75);
+    box-shadow: 13px 8px 23px -1px rgba(0,0,0,0.75);
+}
+
+.box h1{
+    margin-left: 35px;
+    margin-top: 20px;
+    font-size: 30px;
+    color: rgb(15, 112, 190);
+    font-weight: 1;
+}
+
+.box p {
+    margin-left: 20px;
+    margin-top: 30px;
+    color: rgb(63, 61, 61);
+    font-weight: 600px;
+}
+
+.box input {
+    width: 340px;
+    margin-left: 20px;
+    margin-top: 15px;
+    padding: 5px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.box button{
+    margin-top: 30px;
+    font-size: larger;
+    margin-left: 20px;
+    padding: 10px;
+    background-color: rgb(22, 113, 187);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.box p1{
+    margin-left: 55px;
+    font-size: 12px;
+    font-weight: 600;
+}
+.box a{
+    font-size: 12px;
+    
+}
